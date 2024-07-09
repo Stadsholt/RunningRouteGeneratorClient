@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97596b31ef035cc458c4ba7cc167904b, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 95588b7c499ae544589ae4b2d9576341, type: 3}
+  externalLink: {fileID: 2800000, guid: 0955e96553cadfb48b293dd1f99aff1a, type: 3}
+  breakIco: {fileID: 2800000, guid: 93cc70252f68a75468a611368c24d614, type: 3}
+  loadingTex: {fileID: 2800000, guid: 50f4a889468b9db4cad1d994bb14d853, type: 3}
+  docImages:
+  - {fileID: 2800000, guid: b79a668b552455c4a9fe2dc06360208e, type: 3}
+  - {fileID: 2800000, guid: 2c11940a86037df41bb4a9f5ca3cb73d, type: 3}
+  - {fileID: 2800000, guid: 8176c9826fd11bd4587b9f98fd9cb77a, type: 3}
+  - {fileID: 2800000, guid: 074ccc5427b9f6c48a6fbdd48befbd79, type: 3}
+  - {fileID: 2800000, guid: 3e8522b9eabe65d4aa6405db73e09103, type: 3}
+  - {fileID: 2800000, guid: aaa29409a4024194bb8fda287773d62e, type: 3}
+  - {fileID: 2800000, guid: 6525a74c61ba67e4eac16230eec098e6, type: 3}
+  pathImages:
+  - {fileID: 2800000, guid: 237953bde200936429fe5d0d0fde09c7, type: 3}
+  - {fileID: 2800000, guid: 9c3d1032e1d1a0e41bd86b20f852f9a4, type: 3}
+  - {fileID: 2800000, guid: 57d39843de203d74ca3634b4eceee81d, type: 3}
+  - {fileID: 2800000, guid: 7c1021d79290c234c97c54fe71f102c7, type: 3}
+  - {fileID: 2800000, guid: f6ffec570336e4f4ea56bae6391e5f39, type: 3}
+  - {fileID: 2800000, guid: 9665fcaa158bfa14fa392325833e5faa, type: 3}
+  textShader: {fileID: 4800000, guid: 9baa43913a7fbab4ebcfa075b0183455, type: 3}
+  boxShader: {fileID: 4800000, guid: 141736c3605ea5f409d75ef3bca5121f, type: 3}
+  loadingShader: {fileID: 4800000, guid: 78bca071a80ca914c94dee0727d7fe32, type: 3}
+  font: {fileID: 12800000, guid: be60bfb435fff2b4ab8d2cf748a1b25c, type: 3}
+  processClip: {fileID: 102900000, guid: 5bc78681a20100349a602d423bb35862, type: 3}
+  oneShotText:
+    userString: 
+    tags: []
+    selectID: 0
+    carretID: 0
+  oneShotVoiceName: Grace
+  oneShotVoiceUUID: 7d422820
+  oneShotPath: D:\Travaux\Resemble\ResemblePlugin\Assets\Demo
+  requests: []

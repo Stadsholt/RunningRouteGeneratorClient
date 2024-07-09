@@ -1,0 +1,1163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8852529424044624578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: bc81ad29-ArrivedLeft
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: a7eebb48f6240d08a826e29a4bb1f6ae, type: 3}
+  text:
+    userString: Arrive at your destination on the left
+    tags: []
+    selectID: 7
+    carretID: 7
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: bc81ad29
+  clipName: ArrivedLeft
+  userdata: 
+  labels: []
+--- !u!114 &-8781313016238436906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 199317c2-Your destination is on the left
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: e1da491bccb1b2c0594a27f11d0ca576, type: 3}
+  text:
+    userString: Your destination is on the left
+    tags: []
+    selectID: 31
+    carretID: 31
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 199317c2
+  clipName: Your destination is on the left
+  userdata: 
+  labels: []
+--- !u!114 &-8448121406257340587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 1bd8d6a6-Cross the intersection
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: a0483b204fd0c5351b6bfcceafe726cd, type: 3}
+  text:
+    userString: Cross the intersection
+    tags: []
+    selectID: 22
+    carretID: 22
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 1bd8d6a6
+  clipName: Cross the intersection
+  userdata: 
+  labels: []
+--- !u!114 &-7520357338898311591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 33471a1c-Go forward
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 89261c7c5f45e1a02ab0c2d141e26ed2, type: 3}
+  text:
+    userString: Go forward
+    tags: []
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 33471a1c
+  clipName: Go forward
+  userdata: 
+  labels: []
+--- !u!114 &-7453097909433605683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 3f03a2da-Turn slight left
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 7917ddb8f4572fc6487a8695d3463dfa, type: 3}
+  text:
+    userString: Turn slight left
+    tags: []
+    selectID: 16
+    carretID: 16
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 3f03a2da
+  clipName: Turn slight left
+  userdata: 
+  labels: []
+--- !u!114 &-7066317685245988371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 7b3a95f0-Turn slight right
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 980aa6719b666f043ad4cc14d7a3c215, type: 3}
+  text:
+    userString: Turn slight right
+    tags: []
+    selectID: 17
+    carretID: 17
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 7b3a95f0
+  clipName: Turn slight right
+  userdata: 
+  labels: []
+--- !u!114 &-6761287611711029951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 3e1b2c9a-Start at your current location
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: e2394e0c150f81726b8b161e80082abd, type: 3}
+  text:
+    userString: Start at your current location
+    tags: []
+    selectID: 30
+    carretID: 30
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 3e1b2c9a
+  clipName: Start at your current location
+  userdata: 
+  labels: []
+--- !u!114 &-5979474661363359347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 046e9a2e-Arrive at your destination.
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 651f1d13bc97af8bdae53503b29e380d, type: 3}
+  text:
+    userString: Arrive at your destination
+    tags: []
+    selectID: 26
+    carretID: 26
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 046e9a2e
+  clipName: Arrive at your destination.
+  userdata: 
+  labels: []
+--- !u!114 &-5888067008894573013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 3d60ce8e-Keep right
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 4f1a9ec34bb18678bbb4fa831b380a1a, type: 3}
+  text:
+    userString: Keep right
+    tags: []
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 3d60ce8e
+  clipName: Keep right
+  userdata: 
+  labels: []
+--- !u!114 &-5129764922390783462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 3a8800b6-Take the second exit from the roundabout
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 3b64b1036c4aee318a6d92240f59a888, type: 3}
+  text:
+    userString: Take the second exit from the roundabout
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 3a8800b6
+  clipName: Take the second exit from the roundabout
+  userdata: 
+  labels: []
+--- !u!114 &-5013032202384223538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 55bac80e-Follow the footpath
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 80c534ea210fbf31ea6b974ad6b07fc0, type: 3}
+  text:
+    userString: Follow the footpath
+    tags: []
+    selectID: 19
+    carretID: 19
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 55bac80e
+  clipName: Follow the footpath
+  userdata: 
+  labels: []
+--- !u!114 &-3522865493394132507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: ec996889-head north
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 26ac784bd2a4131d6a707aa393cd230c, type: 3}
+  text:
+    userString: head north
+    tags: []
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: ec996889
+  clipName: head north
+  userdata: 
+  labels: []
+--- !u!114 &-3258819849878627018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 21f250de-Continue straight ahead
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 4c64d967e1be942f1be7d91f5eaf14a2, type: 3}
+  text:
+    userString: Continue straight ahead
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 21f250de
+  clipName: Continue straight ahead
+  userdata: 
+  labels: []
+--- !u!114 &-2275130342299041368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: db97e0f6-Turn sharp right onto
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: bc23fc7717c64a31f980007a46228909, type: 3}
+  text:
+    userString: Turn sharp right
+    tags: []
+    selectID: 16
+    carretID: 16
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: db97e0f6
+  clipName: Turn sharp right onto
+  userdata: 
+  labels: []
+--- !u!114 &-1582681036747501508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: e125c125-RightOnto
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: eca8c7695a896194bb41d3ca5f2d1bcf, type: 3}
+  text:
+    userString: Turn right
+    tags: []
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: e125c125
+  clipName: RightOnto
+  userdata: 
+  labels: []
+--- !u!114 &-1382564068471758164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 2aec1df4-Take the stairs down
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 65d756ed8c4cecdf7bd0d12c5bf26607, type: 3}
+  text:
+    userString: Take the stairs down
+    tags: []
+    selectID: 20
+    carretID: 20
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 2aec1df4
+  clipName: Take the stairs down
+  userdata: 
+  labels: []
+--- !u!114 &-1380890865601920848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: f43dbdb6-Enter the roundabout and take the
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 9e6e6ee132265759bb7e1af5d0e092f4, type: 3}
+  text:
+    userString: Enter the roundabout and take the
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: f43dbdb6
+  clipName: Enter the roundabout and take the
+  userdata: 
+  labels: []
+--- !u!114 &-330752099687246806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: b21f5193-Turn sharp left
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 1a348fa1ffa7d0b4a88035525cfc4a72, type: 3}
+  text:
+    userString: turn sharp left
+    tags: []
+    selectID: 15
+    carretID: 15
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: b21f5193
+  clipName: Turn sharp left
+  userdata: 
+  labels: []
+--- !u!114 &-164548340197077391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: ccee9798-SharpRight
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: c3e3660cbc416b86892681549ce734d0, type: 3}
+  text:
+    userString: Turn sharp right onto
+    tags: []
+    selectID: 21
+    carretID: 21
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: ccee9798
+  clipName: SharpRight
+  userdata: 
+  labels: []
+--- !u!114 &-62267755391449709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: bf804136-You have reached your destination
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 8b12a4f0dc24d9573b36390675476feb, type: 3}
+  text:
+    userString: You have reached your destination
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: bf804136
+  clipName: You have reached your destination
+  userdata: 
+  labels: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0da67f1a901af494288cbafce6a4e541, type: 3}
+  m_Name: New Speech
+  m_EditorClassIdentifier: 
+  includePhonemes: 1
+  phonemeTable: {fileID: 0}
+  voiceName: Eske
+  voiceUUID: a3be2bf7
+  clips:
+  - {fileID: 4681801918839644610}
+  - {fileID: -5979474661363359347}
+  - {fileID: -8852529424044624578}
+  - {fileID: 155689882554369944}
+  - {fileID: -3258819849878627018}
+  - {fileID: -8448121406257340587}
+  - {fileID: 3312708254113954280}
+  - {fileID: 2591092127995620000}
+  - {fileID: -1380890865601920848}
+  - {fileID: 4758471897914851196}
+  - {fileID: -5013032202384223538}
+  - {fileID: -7520357338898311591}
+  - {fileID: -3522865493394132507}
+  - {fileID: 2301824121789652083}
+  - {fileID: 2310757913265566006}
+  - {fileID: -5888067008894573013}
+  - {fileID: 7011521960395961246}
+  - {fileID: 1329521172818986691}
+  - {fileID: -1582681036747501508}
+  - {fileID: -164548340197077391}
+  - {fileID: -6761287611711029951}
+  - {fileID: 8862420377195456882}
+  - {fileID: 7131186120930735600}
+  - {fileID: -5129764922390783462}
+  - {fileID: -1382564068471758164}
+  - {fileID: 4284824773030985797}
+  - {fileID: 2432138825367852629}
+  - {fileID: -330752099687246806}
+  - {fileID: -2275130342299041368}
+  - {fileID: -7453097909433605683}
+  - {fileID: -7066317685245988371}
+  - {fileID: 5173037208860084930}
+  - {fileID: -62267755391449709}
+  - {fileID: -8781313016238436906}
+  - {fileID: 1567067285375844356}
+--- !u!114 &155689882554369944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 9b6f4af9-ArrivedRight
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 8a828d9d5f620708f813f645985563ac, type: 3}
+  text:
+    userString: Arrive at your destination on the right
+    tags: []
+    selectID: 0
+    carretID: 39
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 9b6f4af9
+  clipName: ArrivedRight
+  userdata: 
+  labels: []
+--- !u!114 &1329521172818986691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: c2ddd035-Right
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: ba6db003c6bd5fff09c15bb9cdc3726c, type: 3}
+  text:
+    userString: Turn Right
+    tags:
+    - type: 1
+      emotion: 2
+      start: 0
+      end: 10
+      rects:
+      - serializedVersion: 2
+        x: 6
+        y: 7
+        width: 70
+        height: 17
+      color: {r: 0.369, g: 0.349, b: 0.663, a: 1}
+      duration: 0.5
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: c2ddd035
+  clipName: Right
+  userdata: 
+  labels: []
+--- !u!114 &1567067285375844356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 86a8e520-Your destination is on the right
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 92a95064d97b17c0c86b3bbccebd762a, type: 3}
+  text:
+    userString: Your destination is on the right
+    tags: []
+    selectID: 27
+    carretID: 27
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 86a8e520
+  clipName: Your destination is on the right
+  userdata: 
+  labels: []
+--- !u!114 &2301824121789652083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 1ba7034f-head south
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: dd293fc6af248ddb1ad886520f305f5e, type: 3}
+  text:
+    userString: head south
+    tags: []
+    selectID: 10
+    carretID: 10
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 1ba7034f
+  clipName: head south
+  userdata: 
+  labels: []
+--- !u!114 &2310757913265566006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 77f0bca6-Keep left
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: f74eeec2d960d88c6aceaa4344c6959c, type: 3}
+  text:
+    userString: Keep left
+    tags: []
+    selectID: 9
+    carretID: 9
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 77f0bca6
+  clipName: Keep left
+  userdata: 
+  labels: []
+--- !u!114 &2432138825367852629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 81199f36-Turn left onto
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: a9dcb6ea1a6e8bdfeb1eba23fcb44981, type: 3}
+  text:
+    userString: Turn left onto
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 81199f36
+  clipName: Turn left onto
+  userdata: 
+  labels: []
+--- !u!114 &2591092127995620000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: f75ff4c6-East
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: e90775f5b7aebfc8fafa7cf754a77e60, type: 3}
+  text:
+    userString: Head east
+    tags: []
+    selectID: 9
+    carretID: 9
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: f75ff4c6
+  clipName: East
+  userdata: 
+  labels: []
+--- !u!114 &3312708254113954280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 0752db6d-Cross the street
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: e858f691a31d0159494e97e46194e50f, type: 3}
+  text:
+    userString: Cross the street
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 0752db6d
+  clipName: Cross the street
+  userdata: 
+  labels: []
+--- !u!114 &4284824773030985797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 44fad6e7-Take the stairs up
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: d47266a4691b2614c90806f130efa73e, type: 3}
+  text:
+    userString: Take the stairs up
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 44fad6e7
+  clipName: Take the stairs up
+  userdata: 
+  labels: []
+--- !u!114 &4681801918839644610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 61ebb3d1-Arrive at
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 53072643988eb3c4a8e55b487c952896, type: 3}
+  text:
+    userString: Arrive at point of interest
+    tags: []
+    selectID: 27
+    carretID: 27
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 61ebb3d1
+  clipName: Arrive at
+  userdata: 
+  labels: []
+--- !u!114 &4758471897914851196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: f829433e-EnterRoundabout
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: cb99fe30f4faf039481c364572f2ca06, type: 3}
+  text:
+    userString: Enter the roundabout and take the 1st exit onto
+    tags: []
+    selectID: 0
+    carretID: 47
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: f829433e
+  clipName: EnterRoundabout
+  userdata: 
+  labels: []
+--- !u!114 &5173037208860084930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: fc890937-West
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: f31ea399f581c47e885384c6a63746ac, type: 3}
+  text:
+    userString: Head west
+    tags: []
+    selectID: 9
+    carretID: 9
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: fc890937
+  clipName: West
+  userdata: 
+  labels: []
+--- !u!114 &7011521960395961246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: 4a9aacca-Left
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 3f6ad7641f098cea9bd1268b9ebd9458, type: 3}
+  text:
+    userString: Turn left
+    tags:
+    - type: 1
+      emotion: 0
+      start: 0
+      end: 9
+      rects:
+      - serializedVersion: 2
+        x: 6
+        y: 7
+        width: 57
+        height: 17
+      color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      duration: 0.5
+    selectID: 9
+    carretID: 9
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: 4a9aacca
+  clipName: Left
+  userdata: 
+  labels: []
+--- !u!114 &7131186120930735600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: d7a82c0b-Stay on the current sidewalk
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 75ce27aa742719447a76abecdad830b2, type: 3}
+  text:
+    userString: Stay on the current sidewalk
+    tags: []
+    selectID: 28
+    carretID: 28
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: d7a82c0b
+  clipName: Stay on the current sidewalk
+  userdata: 
+  labels: []
+--- !u!114 &8862420377195456882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e5042a8e744f14f85e01ada8e0f6e3, type: 3}
+  m_Name: cac8d633-Stay on the current road
+  m_EditorClassIdentifier: 
+  speech: {fileID: 11400000}
+  clip: {fileID: 8300000, guid: 7ba31fa2a2e628898af69d0deea58ee7, type: 3}
+  text:
+    userString: Stay on the current road
+    tags: []
+    selectID: 0
+    carretID: 0
+  phonemes:
+    raw:
+      phonemes: 
+      phonemesChars: 
+      end_times: []
+    refined:
+      phonemes: 
+      curves: []
+  uuid: cac8d633
+  clipName: Stay on the current road
+  userdata: 
+  labels: []

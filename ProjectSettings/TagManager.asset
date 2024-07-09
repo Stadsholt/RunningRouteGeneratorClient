@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CategoryTexts
+  - PreferencesMenu
+  - FilterSystem
+  - SubCategoryMenu
+  - Button
+  - PreferencesPage
+  - SubCategoryTexts
+  - Done
+  - POISystem
+  - LocationSystem
+  - POI
+  - StoredData
+  - PointsOfInterestSystem
+  - StartPoint
+  - EndPoint
+  - UserArrowRotation
+  - MenuBackground
+  - Text
+  - EstDistanceNum
+  - BigMap
+  - ZoomPic
+  - POIZoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Arrow1
+  - Arrow2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

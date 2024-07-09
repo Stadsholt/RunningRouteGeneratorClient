@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5128054344986297117
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5128054344986297118}
+  - component: {fileID: 5128054344986297119}
+  m_Layer: 0
+  m_Name: Tracker  - Daniel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5128054344986297118
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5128054344986297117}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -697.0681, y: -26.25586, z: 10.982499}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5128054344986297119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5128054344986297117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 370fde5f1897bc6408300f93ef5a3ad9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeSpent: 0
+  routeDistance: 5
+  avgPace: 0
+  distanceMoved: 0.52
+  distanceToNextAction: 0
+  StartStopToggle: {fileID: 0}
+  POIDistances:
+  - 2
+  - 3
+  - 4
+  progressBar: {fileID: 0}
+  progressBarStartPoint: {fileID: 0}
+  POIMarker: {fileID: 2219126912670366565, guid: a2ac5574a485f104895ef0141c7b5e20, type: 3}
+  userMarker: {fileID: 0}
+  startStopToggle: {fileID: 0}
+  avgPaceText: {fileID: 0}
+  distanceRanText: {fileID: 0}
+  timeSpentText: {fileID: 0}
+  distanceToNextActionText: {fileID: 0}
+  GPSCoords: {fileID: 0}
+  userLat: 57.0227
+  userLon: 9.942534
+  targetLat: 57.04502
+  targetLon: 9.913838
+  textToSpeech: {fileID: 0}
+  directionsIndex: 0
+  userPosText: {fileID: 0}
+  targetPosText: {fileID: 0}
+  compass: {fileID: 0}
+  bearingText: {fileID: 0}
